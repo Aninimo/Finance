@@ -5,7 +5,7 @@ import { Form } from './components/Form'
 
 import { GlobalStyle } from './GlobalStyle'
 
-export default function App() {
+export function App() {
   const data = localStorage.getItem("transactions");
   const [transactionsList, setTransactionsList] = useState(
     data ? JSON.parse(data) : []
