@@ -9,6 +9,9 @@ FinanceApp é uma aplicação para controle de finanças pessoais, permitindo qu
 https://finance-black.vercel.app/
 
 ## Installation 💾
+```
+git clone https://github.com/Aninimo/Finance.git
+```
 
 ## Tecnologias usadas 
 <ul>
