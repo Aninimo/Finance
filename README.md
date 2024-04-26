@@ -7,6 +7,9 @@
 ## 📚 Sobre 
 FinanceApp é uma aplicação para controle de finanças pessoais, permitindo que o usuário adicione e remova transações. Ao clicar em um item, um modal é exibido com informações detalhadas. Todas as informações são armazenadas localmente no localStorage.
 
+## Demo 
+https://finance-black.vercel.app/
+
 ## Tecnologias usadas 
 <ul>
   <li>ReactJs</li>
