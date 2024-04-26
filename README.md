@@ -23,9 +23,15 @@ npm install
 npm run dev
 ```
 
+## Run Tests
+```
+npm test
+```
+
 ## Tecnologias usadas 
 <ul>
   <li>ReactJs</li>
   <li>Styled Components</li>
   <li>Toastfy</li>
+  <li>Jest</li>
 </ul>
