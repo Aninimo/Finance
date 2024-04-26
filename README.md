@@ -8,6 +8,8 @@ FinanceApp é uma aplicação para controle de finanças pessoais, permitindo qu
 ## Demo 
 https://finance-black.vercel.app/
 
+## Installation 💾
+
 ## Tecnologias usadas 
 <ul>
   <li>ReactJs</li>
