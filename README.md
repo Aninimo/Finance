@@ -13,6 +13,16 @@ https://finance-black.vercel.app/
 git clone https://github.com/Aninimo/Finance.git
 ```
 
+## Install deps:
+```
+npm install
+```
+
+## Run dev server:
+```
+npm run dev
+```
+
 ## Tecnologias usadas 
 <ul>
   <li>ReactJs</li>
